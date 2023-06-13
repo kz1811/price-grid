@@ -107,10 +107,6 @@ body {
     .main {
         padding-top: 50px;
     }
-    
-    .join-container p, .green .why-container {
-        line-height: 1.5;
-    }
 
     .green{
         flex-direction: column;
